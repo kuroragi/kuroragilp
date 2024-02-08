@@ -279,6 +279,162 @@
 
     {{-- end products section --}}
 
+    {{-- reviews section --}}
+
+    <section class="review" id="review">
+        <h1 class="heading">Costumer's <span>Review</span></h1>
+        <div class="box-container">
+            <div class="box">
+                <img src="/images/2/quotes.png" alt="" class="quote">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates voluptatum officiis sit eum fuga
+                    sapiente beatae iusto cumque deleniti architecto? Magnam, deserunt molestiae quasi quibusdam animi
+                    veritatis corporis cupiditate eveniet?</p>
+                <img src="/images/2/pic1.jpg" alt="" class="user">
+                <h3>john doe</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+            <div class="box">
+                <img src="/images/2/quotes.png" alt="" class="quote">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates voluptatum officiis sit eum fuga
+                    sapiente beatae iusto cumque deleniti architecto? Magnam, deserunt molestiae quasi quibusdam animi
+                    veritatis corporis cupiditate eveniet?</p>
+                <img src="/images/2/pic2.jpg" alt="" class="user">
+                <h3>john doe</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+            <div class="box">
+                <img src="/images/2/quotes.png" alt="" class="quote">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates voluptatum officiis sit eum fuga
+                    sapiente beatae iusto cumque deleniti architecto? Magnam, deserunt molestiae quasi quibusdam animi
+                    veritatis corporis cupiditate eveniet?</p>
+                <img src="/images/2/pic1.jpg" alt="" class="user">
+                <h3>john doe</h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{-- end reviews section --}}
+
+    {{-- contact section --}}
+
+    <section class="contact" id="contact">
+        <h1 class="heading"><span>contact</span> us</h1>
+        <div class="row">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d997.4439650360592!2d100.44738226947608!3d-0.2643336588923259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMMKwMTUnNTEuNiJTIDEwMMKwMjYnNTIuOSJF!5e0!3m2!1sen!2sid!4v1707391038228!5m2!1sen!2sid"
+                allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+
+            <form action="">
+                <h3>Get in touch</h3>
+                <div class="inputBox">
+                    <span class="fas fa-user"></span>
+                    <input type="text" placeholder="name">
+                </div>
+                <div class="inputBox">
+                    <span class="fas fa-envelope"></span>
+                    <input type="email" placeholder="email">
+                </div>
+                <div class="inputBox">
+                    <span class="fas fa-phone"></span>
+                    <input type="number" placeholder="number">
+                </div>
+                <input type="submit" value="Contact Now" class="btn">
+            </form>
+        </div>
+    </section>
+
+    {{-- end contact section --}}
+
+    {{-- blogs section --}}
+
+    <section class="blogs" id="blogs">
+        <h1 class="heading">our <span>blogs</span></h1>
+
+        <div class="box-container">
+            <div class="box">
+                <div class="image">
+                    <img src="/images/2/blog-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">tasty and refreshing coffee</a>
+                    <span>by admin / 21st may, 2021</span>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, blanditiis.</p>
+                    <a href="#" class="btn">read more</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/2/blog-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">tasty and refreshing coffee</a>
+                    <span>by admin / 21st may, 2021</span>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, blanditiis.</p>
+                    <a href="#" class="btn">read more</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="image">
+                    <img src="/images/2/blog-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">tasty and refreshing coffee</a>
+                    <span>by admin / 21st may, 2021</span>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, blanditiis.</p>
+                    <a href="#" class="btn">read more</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{-- end blogs section --}}
+
+    {{-- footer section --}}
+
+    <section class="footer">
+        <div class="share">
+            <a href="" class="fab fa-facebook-f"></a>
+            <a href="" class="fab fa-twitter"></a>
+            <a href="" class="fab fa-instagram"></a>
+            <a href="" class="fab fa-linkedin"></a>
+            <a href="" class="fab fa-pinterest"></a>
+        </div>
+
+        <div class="links">
+            <a href="#">home</a>
+            <a href="#">about</a>
+            <a href="#">menu</a>
+            <a href="#">products</a>
+            <a href="#">review</a>
+            <a href="#">contact</a>
+            <a href="#">blogs</a>
+        </div>
+
+        <div class="credit">created by <span>kuroragi umu</span> | all rights reserved</div>
+    </section>
+
+    {{-- end footer section --}}
+
 
     {{-- custome js --}}
     <script src="/js/script2.js"></script>
