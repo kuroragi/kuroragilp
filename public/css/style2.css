@@ -524,7 +524,7 @@ section{
         right: 2rem;
     }
     .home{
-        background-position: left;
+        background-position: right;
         justify-content: center;
     }
     .home .content h3{
